@@ -10,6 +10,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/kumar-anup10/All-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
@@ -119,4 +120,8 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/kumar-anup10/All-Leetcode/tree/master/0868-binary-gap) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kumar-anup10/All-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
