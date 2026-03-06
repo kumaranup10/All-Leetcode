@@ -124,4 +124,8 @@
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/kumar-anup10/All-Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
