@@ -21,6 +21,7 @@
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kumar-anup10/All-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/kumar-anup10/All-Leetcode/tree/master/3637-trionic-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kumar-anup10/All-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kumar-anup10/All-Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kumar-anup10/All-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kumar-anup10/All-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
