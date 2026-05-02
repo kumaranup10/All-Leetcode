@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
+| [0396-rotate-function](https://github.com/kumar-anup10/All-Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/kumar-anup10/All-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -39,6 +40,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/kumar-anup10/All-Leetcode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1103-distribute-candies-to-people](https://github.com/kumar-anup10/All-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -130,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/kumar-anup10/All-Leetcode/tree/master/0396-rotate-function) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
 ## Binary Search Tree
