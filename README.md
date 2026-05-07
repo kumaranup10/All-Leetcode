@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/kumar-anup10/All-Leetcode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kumar-anup10/All-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kumar-anup10/All-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
