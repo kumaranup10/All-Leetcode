@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kumar-anup10/All-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/kumar-anup10/All-Leetcode/tree/master/0396-rotate-function) |
@@ -139,6 +140,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kumar-anup10/All-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/kumar-anup10/All-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
