@@ -104,6 +104,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/kumar-anup10/All-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/kumar-anup10/All-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -176,6 +177,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/kumar-anup10/All-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kumar-anup10/All-Leetcode/tree/master/0796-rotate-string) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/kumar-anup10/All-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
