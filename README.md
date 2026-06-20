@@ -15,6 +15,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/kumar-anup10/All-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kumar-anup10/All-Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/kumar-anup10/All-Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/kumar-anup10/All-Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
