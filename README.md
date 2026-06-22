@@ -32,6 +32,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/kumar-anup10/All-Leetcode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/kumar-anup10/All-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kumar-anup10/All-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kumar-anup10/All-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/kumar-anup10/All-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2103-rings-and-rods](https://github.com/kumar-anup10/All-Leetcode/tree/master/2103-rings-and-rods) |
@@ -133,6 +135,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kumar-anup10/All-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
